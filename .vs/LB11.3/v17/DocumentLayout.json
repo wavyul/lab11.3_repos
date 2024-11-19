@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\LB11.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEDDADB-5B26-4EFC-B905-25D1D45B1FE9}|LB11.3\\LB11.3.vcxproj|D:\\project\\LB11.3\\LB11.3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FEDDADB-5B26-4EFC-B905-25D1D45B1FE9}|LB11.3\\LB11.3.vcxproj|solutionrelative:LB11.3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7878E9-0285-4061-8F00-A7EE457BD992}|UnitTest11.3\\UnitTest11.3.vcxproj|D:\\project\\LB11.3\\UnitTest11.3\\UnitTest11.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A7878E9-0285-4061-8F00-A7EE457BD992}|UnitTest11.3\\UnitTest11.3.vcxproj|solutionrelative:UnitTest11.3\\UnitTest11.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project\\LB11.3\\LB11.3\\main.cpp",
+              "RelativeDocumentMoniker": "LB11.3\\main.cpp",
+              "ToolTip": "D:\\project\\LB11.3\\LB11.3\\main.cpp",
+              "RelativeToolTip": "LB11.3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T17:00:27.664Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest11.3.cpp",
+              "DocumentMoniker": "D:\\project\\LB11.3\\UnitTest11.3\\UnitTest11.3.cpp",
+              "RelativeDocumentMoniker": "UnitTest11.3\\UnitTest11.3.cpp",
+              "ToolTip": "D:\\project\\LB11.3\\UnitTest11.3\\UnitTest11.3.cpp",
+              "RelativeToolTip": "UnitTest11.3\\UnitTest11.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T17:04:40.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
